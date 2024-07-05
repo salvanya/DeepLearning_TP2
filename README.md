@@ -5,7 +5,9 @@ This repository contains solutions to Deep Learning problems using various techn
 ## Set up
 
 1. Run in terminal:
+    
     pip3 install -r requirements.txt
 
 2. To use the models:
+    
     Simply run cells in order in both jupyter notebook files.
