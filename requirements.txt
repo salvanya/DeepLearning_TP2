@@ -1,0 +1,10 @@
+tensorflow==2.16.1
+scikit-learn==1.4.2
+seaborn==0.13.2
+pandas==2.2.2
+opencv-python==4.9.0.80
+numpy==1.26.4
+scipy==1.13.0
+pydub==0.25.1
+ipython==8.23.0
+audiomentations==0.23.0
