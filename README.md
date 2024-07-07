@@ -6,7 +6,7 @@ This repository contains solutions to Deep Learning problems using various techn
 
 1. Run in terminal:
     
-    pip3 install -r requirements.txt
+    `pip3 install -r requirements.txt`
 
 2. To use the models:
     
