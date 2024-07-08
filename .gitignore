@@ -1,4 +1,5 @@
 *.Identifier
-checkpoints
+checkpoints/
 free-spoken-digit-dataset-1.0.9
 v1.0.9.tar.gz
+.venv/
