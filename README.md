@@ -1,6 +1,6 @@
-# DeepLearning_TP2
+# Academic project: Audio recognition & Fake news generation
 
-This repository contains solutions to Deep Learning problems using various techniques and models implemented in Python with TensorFlow and Keras. Each project addresses a specific problem and is designed to showcase the implementation of neural network models in different scenarios.
+This repository contains two academic exercises that demonstrate solutions to Deep Learning problems using various techniques and models implemented in Python with TensorFlow and Keras. The first exercise focuses on **audio recognition**, utilizing convolutional neural networks (CNNs) applied to spectrograms of spoken digits from audio clips. The second exercise explores **text generation** using recurrent neural networks (RNNs) with LSTM cells, comparing tokenization at the word and character levels to create new fake news articles based on the AG News Dataset. Each project highlights the implementation of neural network models in distinct scenarios, showcasing their versatility and effectiveness.
 
 ## Exercise 1 - Audio MNIST:
 
